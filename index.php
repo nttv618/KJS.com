@@ -10,6 +10,6 @@
     <h1>
         trang chủ
     </h1>
-    <h2>KJS gấc iu</h2>
+    <h2>KJN gấc iu</h2>
 </body>
 </html>
